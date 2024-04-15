@@ -1,1 +1,9 @@
-body{background-color: rgb(197, 190, 190);}
+body{  
+    background-color: rgb(197, 190, 190);
+}
+.botton a{
+    text-decoration: none;
+    border: 1px solid gray;
+    padding-left: 3px;
+    padding-right: 3px;
+}
