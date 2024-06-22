@@ -1,4 +1,7 @@
-let x =10;
-let y =20;
-    alert(x+y);
-console.log("hello hi");
+
+var wee = "heelo";
+
+function we(){
+    console.log("banene");
+}
+we()
